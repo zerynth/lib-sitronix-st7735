@@ -1,0 +1,14 @@
+---
+description: Driver for Sitronix ST7735 Controller for color display
+fullname: lib.sitronix.st7735
+info:
+    chip_manufacturer: Sitronix
+    chip_name: ST7735
+    name: Sitronix Display Driver
+    type: Actuator
+keywords:
+- sitronix
+- display
+- color
+title: ST7735 Controller for color display
+...
